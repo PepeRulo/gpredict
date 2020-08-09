@@ -1,4 +1,4 @@
-# Branch for Windows 10 development.
+# Branch for Windows 10 development
 
 Current working branch.
 
